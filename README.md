@@ -328,6 +328,6 @@ distributions, relationships, and meaningful patterns in data.
   <i>✨ Building • Learning • Improving</i>
 </p>
 
-
+<p align="center">
   <i>⭐ Thanks for visiting my profile!
 </p>
