@@ -50,85 +50,18 @@ backend systems, databases, APIs, and data-driven solutions.
 
 ## 🚀 Featured Projects
 
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3>🏔️ TrekManager</h3>
-
-<p>
-A full-stack trekking management application with authentication,
-role-based functionality, database integration, and booking management.
-</p>
-
-<p>
-<b>Tech:</b> Flask · SQLAlchemy · SQLite · JavaScript · HTML · CSS
-</p>
-
-<p>
-<a href="YOUR_TREKMANAGER_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🎓 Learning Management System</h3>
-
-<p>
-A full-stack learning platform designed to manage users, courses,
-learning content, and academic workflows.
-</p>
-
-<p>
-<b>Tech:</b> Full-Stack Development · Database · REST APIs
-</p>
-
-<p>
-<a href="YOUR_LMS_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🤖 MLP Project</h3>
-
-<p>
-Machine Learning project involving data preprocessing, exploratory
-analysis, feature engineering, model development, and evaluation.
-</p>
-
-<p>
-<b>Tech:</b> Python · Pandas · NumPy · Scikit-learn · XGBoost
-</p>
-
-<p>
-<a href="YOUR_MLP_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-</td>
-
 <td width="50%" valign="top">
 
 <h3>📊 Procurement Analytics</h3>
 
 <p>
-Excel-based procurement analytics project analyzing supplier
-dependency, cost drivers, tax impact, and discount efficiency.
+Excel-based procurement analytics project analyzing supplier dependency, cost drivers, tax impact, and discount efficiency.
 </p>
 
-<p>
-<b>Tech:</b> Excel · Pivot Tables · Pivot Charts · KPI Analysis
-</p>
+<p><b>Tech:</b> Excel · Pivot Tables · Pivot Charts · KPI Analysis</p>
 
 <p>
 <a href="https://github.com/prayags934-sketch/procurement-efficiency-cost-control">
@@ -137,21 +70,16 @@ dependency, cost drivers, tax impact, and discount efficiency.
 </p>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 <h3>📈 Power BI Business Dashboard</h3>
 
 <p>
-Interactive Power BI dashboard focused on KPI tracking, business
-performance analysis, visualization, and decision-making.
+Interactive Power BI dashboard focused on KPI tracking, business performance analysis, visualization, and decision-making.
 </p>
 
-<p>
-<b>Tech:</b> Power BI · DAX · Data Visualization
-</p>
+<p><b>Tech:</b> Power BI · DAX · Data Visualization</p>
 
 <p>
 <a href="https://github.com/prayags934-sketch/powerbi-business-dashboard">
@@ -160,19 +88,18 @@ performance analysis, visualization, and decision-making.
 </p>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <h3>📊 Python EDA</h3>
 
 <p>
-Exploratory data analysis project focused on identifying trends,
-distributions, relationships, and meaningful patterns in data.
+Exploratory data analysis project focused on identifying trends, distributions, relationships, and meaningful patterns in data.
 </p>
 
-<p>
-<b>Tech:</b> Python · Pandas · NumPy · Matplotlib
-</p>
+<p><b>Tech:</b> Python · Pandas · NumPy · Matplotlib</p>
 
 <p>
 <a href="https://github.com/prayags934-sketch/python-eda-project">
